@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👨‍💻 About Me  
 
-<!--
-**Athulbt/Athulbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m **Athul Babu Teeyancheri** 👋  
+- 🎓 Currently pursuing my Post Graduate Diploma at **Lambton College, Canada**  
+- 💻 Exploring **DevOps, AWS, and Cloud Computing**  
+- 🛠️ Skilled in **Python, SQL, Git/GitHub, PL/SQL, and Data Analysis**  
+- 🤖 Hands-on experience with **Machine Learning, OpenCV, TensorFlow, and PyTorch**  
+- 📊 Worked as an **Office Assistant & Data Analyst** at Akshaya E-Centre, where I handled data visualization, reporting, and administrative support  
+- 🚀 Interested in **DevOps automation, CI/CD, and cloud-native applications**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m currently learning  
+- Advanced **DevOps with AWS**  
+- Infrastructure as Code (**Terraform, Ansible**)  
+- Kubernetes and Docker  
+
+---
+
+### 📫 How to reach me  
+- ✉️ Email: **athuljr240701@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/athulbabu) 
+
+---
+
+⚡ *Fun fact:* I love experimenting with IoT devices — from building an RC car 🚗 to creating traffic recognition systems with sensors and cameras!  
