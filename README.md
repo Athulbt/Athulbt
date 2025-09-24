@@ -18,9 +18,7 @@ Hi, I’m **Athul Babu Teeyancheri** 👋
 ---
 
 ### 📫 How to reach me  
-- ✉️ Email: **athuljr240701@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/athulbabu) 
-
+- ✉️ Email: **athuljr240701@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/athulbabu) 
