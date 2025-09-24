@@ -15,11 +15,6 @@ Hi, I’m **Athul Babu Teeyancheri** 👋
 - Infrastructure as Code (**Terraform, Ansible**)  
 - Kubernetes and Docker  
 
----
-
-### 📫 How to reach me  
-- ✉️ Email: **athuljr240701@gmail.com**
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/athulbabu) 
 
