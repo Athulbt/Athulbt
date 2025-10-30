@@ -3,7 +3,7 @@
 Hi, I’m **Athul Babu Teeyancheri** 👋  
 - 🎓 Currently pursuing my Post Graduate Diploma at **Lambton College, Canada**  
 - 💻 Exploring **DevOps, AWS, and Cloud Computing**  
-- 🛠️ Skilled in **Python, SQL, Git/GitHub, PL/SQL, and Data Analysis**  
+- 🛠️ Skilled in **Python, SQL, MERN Stack, Git/GitHub, PL/SQL, and Data Analysis**  
 - 🤖 Hands-on experience with **Machine Learning, OpenCV, TensorFlow, and PyTorch**  
 - 📊 Worked as an **Office Assistant & Data Analyst** at Akshaya E-Centre, where I handled data visualization, reporting, and administrative support  
 - 🚀 Interested in **DevOps automation, CI/CD, and cloud-native applications**  
