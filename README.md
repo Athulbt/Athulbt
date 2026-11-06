@@ -57,6 +57,6 @@ Hi, I’m **Athul Babu Teeyancheri** 👋
 ![](https://streak-stats.demolab.com/?user=Athulbt&theme=dark&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Athulbt&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Athulbt&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 
